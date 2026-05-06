@@ -1,0 +1,6 @@
+{
+  "name": "PDFly - Edit PDF text & AI assistance",
+  "description": "An AI-powered PDF Editor where you can upload any PDF and edit its original text, backed by Google Gemini capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
